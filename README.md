@@ -5,15 +5,21 @@ The encoding process works by modifying the least significant bits (LSB) of the 
 -> Features
 
 Hides text data inside a BMP image
+
 Retrieves the hidden data without loss
+
 Preserves the original image appearance
+
 Modular and well-structured C code
 
 -> Concepts Used
 
 File handling in C
+
 Bitwise operations
+
 Structures and pointers
+
 Modular programming
 
 -> Purpose
