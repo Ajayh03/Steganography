@@ -1,0 +1,20 @@
+NAME : Ajay H 
+START_DATE : 29-10-2025
+END_DATE : 12-11-2025
+TITLE : LSB Image Steganography 
+DESCRIPTION : LSB image steganography is a technique used to hide secret data within a digital image in such a way that
+              the alteration is visually imperceptible to the human eye.It is one of the most common and fundamental methods
+              in the field of data hiding and information security.
+
+SAMPLE INPUT & OUTPUT : 
+
+Input command for encoding : ./a.out -e <.bmp_file> <secret_file> [output file]
+
+Output : width = 1024
+         height = 768
+         ENCODED SUCCESSFULLY
+
+
+Input command for decoding : ./a.out -d <.bmp_file> [output file]
+
+Output :  DECODING SUCCESSFULL        
